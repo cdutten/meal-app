@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f286c526-bac3-4f49-a18d-fa2a9d802246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/navigation/MealsNavigator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/CategoriesScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/CategoryMealsScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/FavoritesScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/FiltersScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/MealDetailScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/category.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/CategoriesScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/CategoriesScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/CategoryMealsScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/CategoryMealsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/MealDetailScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/MealDetailScreen.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fire-place" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +35,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
   </component>
@@ -62,6 +62,10 @@
       <option name="presentableId" value="Default" />
       <updated>1570049223194</updated>
       <workItem from="1570049224733" duration="2598000" />
+      <workItem from="1570220738287" duration="3675000" />
+      <workItem from="1571086427658" duration="599000" />
+      <workItem from="1571432489399" duration="49000" />
+      <workItem from="1571494289292" duration="2000000" />
     </task>
     <servers />
   </component>
@@ -73,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
